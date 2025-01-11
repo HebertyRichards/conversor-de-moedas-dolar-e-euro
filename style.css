@@ -1,0 +1,16 @@
+.converter {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+  }
+  select, input, button {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    font-size: 1rem;
+  }
+  .result {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
